@@ -1,5 +1,6 @@
 #heading{
-  color: #0D9BA0
+  color: ;
+  text-align: center;
 }
 .para
 {
@@ -9,4 +10,10 @@ margin-bottom: 1em;
 margin-left: 0;
 margin-right: 0;
 
+}
+body
+{
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
 }
